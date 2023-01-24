@@ -75,7 +75,7 @@ class Command(BaseCommand):
                 code=str(random.randint(1000000000, 100000000000)),
                 date_update=datetime.now(),
                 type_product=random_object,
-                image="/Screenshot_from_2023-01-16_20-19-21_4KKhqQE.png"
+                image="/multfilm_lyagushka_32117.jpg"
             )
 
 
